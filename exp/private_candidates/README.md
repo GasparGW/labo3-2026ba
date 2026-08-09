@@ -1,32 +1,26 @@
-# Candidatos para el private (para submitear cuando resetee el cupo)
+# Candidatos para el private (submitear cuando resetee el cupo)
 
-IMPORTANTE: el private esta OCULTO hasta el 16-ago. Estos son apuestas informadas,
-validadas en las 25 respuestas reales de feb-2020 (proxy). El proxy PUEDE mentir para
-el private (LR13 le gana al proxy pero pierde en private). Ancla segura = autogluon_pure
-(private 0.2531 MEDIDO, 2do puesto real).
+REAL25 = error sobre las 25 respuestas reales de feb-2020 recuperadas por probing.
+ADVERTENCIA: las 25 son productos del split PÚBLICO. Menor REAL25 NO garantiza mejor private
+(el público anti-selecciona el private en la zona buena). Ancla MEDIDA: private 0.2531 = el
+craft/AutoGluon ya seleccionado. Estos son apuestas para submitear y ver su PÚBLICO mañana.
 
-| candidato | TFE en 25 reales (proxy) | notas |
+| candidato | REAL25 (25 reales feb-2020) | total tn |
 |---|---|---|
-| autogluon_pure | 0.1999 | ANCLA: private 0.2531 medido, no apostar en contra sin razon |
-| median_ag_lr_mg | 0.1714 | mejor proxy; mediana robusta corrige outliers de AG sin irse a LR13 |
-| median_ag_lr_lgbm | 0.1839 | mediana con LGBM en vez de magicos |
-| ag80_lr20 | 0.1926 | blend conservador, mayoria AutoGluon |
-| ag70_lr30 | 0.1899 | blend un poco mas hacia LR13 |
-| ag60_lr20_lgbm20 | 0.1905 | blend 3 vias anclado en AG |
-
-## Candidatos LGBM (private NUNCA medido - apuesta genuinamente abierta)
-
-El LGBM se corrio el 8-ago, despues del export, asi que su private esta 100% oculto.
-En las 25 reales anda parecido a AutoGluon (no claramente mejor ni peor).
-
-| candidato | TFE 25 reales |
-|---|---|
-| lgbm_febw5_pure | 0.1938 |
-| lgbm_granofino_pro_pure | 0.2142 |
-| median_ag_lgbm5_lgbmgf | 0.2027 |
-| ag50_lgbmfebw5_50 | 0.1941 |
-
----
+| median_ag_lr_mg | 0.1714 | 28,590 |
+| ag_improved_median_variantes | 0.1795 | 29,279 |
+| median_ag_lr_lgbm | 0.1839 | 28,945 |
+| ag_improved_rmse_exe | 0.1845 | 29,049 |
+| ag70_lr30 | 0.1899 | 28,969 |
+| ag60_lr20_lgbm20 | 0.1905 | 28,982 |
+| ag80_lr20 | 0.1926 | 29,017 |
+| lgbm_febw5_pure | 0.1938 | 28,937 |
+| ag50_lgbmfebw5_50 | 0.1941 | 29,026 |
+| autogluon_pure | 0.1999 | 29,114 |
+| median_ag_lgbm5_lgbmgf | 0.2027 | 28,496 |
+| lgbm_mejorado_best | 0.2043 | 27,904 |
+| lgbm_mejorado_ens3 | 0.2131 | 27,909 |
+| lgbm_granofino_pro_pure | 0.2142 | 27,844 |
 
 ## HANDOFF: cómo continuar en la OTRA máquina
 
