@@ -1,0 +1,678 @@
+{
+  "base_file": "base_autogluon_0.2531.csv",
+  "base_score": 0.255,
+  "probes": [
+    {
+      "file": "probeA_20001.csv",
+      "pid": 20001,
+      "kind": "A",
+      "score": 1.554
+    },
+    {
+      "file": "probeZ_20001.csv",
+      "pid": 20001,
+      "kind": "Z",
+      "score": 0.309
+    },
+    {
+      "file": "probeA_20002.csv",
+      "pid": 20002,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20002.csv",
+      "pid": 20002,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20003.csv",
+      "pid": 20003,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20003.csv",
+      "pid": 20003,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20004.csv",
+      "pid": 20004,
+      "kind": "A",
+      "score": 1.553
+    },
+    {
+      "file": "probeZ_20004.csv",
+      "pid": 20004,
+      "kind": "Z",
+      "score": 0.288
+    },
+    {
+      "file": "probeA_20005.csv",
+      "pid": 20005,
+      "kind": "A",
+      "score": 1.548
+    },
+    {
+      "file": "probeZ_20005.csv",
+      "pid": 20005,
+      "kind": "Z",
+      "score": 0.288
+    },
+    {
+      "file": "probeA_20006.csv",
+      "pid": 20006,
+      "kind": "A",
+      "score": 1.52
+    },
+    {
+      "file": "probeZ_20006.csv",
+      "pid": 20006,
+      "kind": "Z",
+      "score": 0.286
+    },
+    {
+      "file": "probeA_20009.csv",
+      "pid": 20009,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20009.csv",
+      "pid": 20009,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20011.csv",
+      "pid": 20011,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20011.csv",
+      "pid": 20011,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20032.csv",
+      "pid": 20032,
+      "kind": "A",
+      "score": 1.554
+    },
+    {
+      "file": "probeZ_20032.csv",
+      "pid": 20032,
+      "kind": "Z",
+      "score": 0.27
+    },
+    {
+      "file": "probeA_20007.csv",
+      "pid": 20007,
+      "kind": "A",
+      "score": 1.554
+    },
+    {
+      "file": "probeZ_20007.csv",
+      "pid": 20007,
+      "kind": "Z",
+      "score": 0.281
+    },
+    {
+      "file": "probeA_20015.csv",
+      "pid": 20015,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20015.csv",
+      "pid": 20015,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20010.csv",
+      "pid": 20010,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20010.csv",
+      "pid": 20010,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20013.csv",
+      "pid": 20013,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20013.csv",
+      "pid": 20013,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20019.csv",
+      "pid": 20019,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20019.csv",
+      "pid": 20019,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20008.csv",
+      "pid": 20008,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20008.csv",
+      "pid": 20008,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20014.csv",
+      "pid": 20014,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20014.csv",
+      "pid": 20014,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20016.csv",
+      "pid": 20016,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20016.csv",
+      "pid": 20016,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20017.csv",
+      "pid": 20017,
+      "kind": "A",
+      "score": 1.554
+    },
+    {
+      "file": "probeZ_20017.csv",
+      "pid": 20017,
+      "kind": "Z",
+      "score": 0.265
+    },
+    {
+      "file": "probeA_20012.csv",
+      "pid": 20012,
+      "kind": "A",
+      "score": 1.55
+    },
+    {
+      "file": "probeZ_20012.csv",
+      "pid": 20012,
+      "kind": "Z",
+      "score": 0.275
+    },
+    {
+      "file": "probeA_20026.csv",
+      "pid": 20026,
+      "kind": "A",
+      "score": 1.553
+    },
+    {
+      "file": "probeZ_20026.csv",
+      "pid": 20026,
+      "kind": "Z",
+      "score": 0.271
+    },
+    {
+      "file": "probeA_20024.csv",
+      "pid": 20024,
+      "kind": "A",
+      "score": 1.55
+    },
+    {
+      "file": "probeZ_20024.csv",
+      "pid": 20024,
+      "kind": "Z",
+      "score": 0.269
+    },
+    {
+      "file": "probeA_20020.csv",
+      "pid": 20020,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20020.csv",
+      "pid": 20020,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20025.csv",
+      "pid": 20025,
+      "kind": "A",
+      "score": 1.543
+    },
+    {
+      "file": "probeZ_20025.csv",
+      "pid": 20025,
+      "kind": "Z",
+      "score": 0.27
+    },
+    {
+      "file": "probeA_20022.csv",
+      "pid": 20022,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20022.csv",
+      "pid": 20022,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20021.csv",
+      "pid": 20021,
+      "kind": "A",
+      "score": 1.544
+    },
+    {
+      "file": "probeZ_20021.csv",
+      "pid": 20021,
+      "kind": "Z",
+      "score": 0.269
+    },
+    {
+      "file": "probeA_20018.csv",
+      "pid": 20018,
+      "kind": "A",
+      "score": 1.541
+    },
+    {
+      "file": "probeZ_20018.csv",
+      "pid": 20018,
+      "kind": "Z",
+      "score": 0.272
+    },
+    {
+      "file": "probeA_20027.csv",
+      "pid": 20027,
+      "kind": "A",
+      "score": 1.553
+    },
+    {
+      "file": "probeZ_20027.csv",
+      "pid": 20027,
+      "kind": "Z",
+      "score": 0.27
+    },
+    {
+      "file": "probeA_20028.csv",
+      "pid": 20028,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20028.csv",
+      "pid": 20028,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20085.csv",
+      "pid": 20085,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20085.csv",
+      "pid": 20085,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20038.csv",
+      "pid": 20038,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20038.csv",
+      "pid": 20038,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20023.csv",
+      "pid": 20023,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20023.csv",
+      "pid": 20023,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20029.csv",
+      "pid": 20029,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20029.csv",
+      "pid": 20029,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20035.csv",
+      "pid": 20035,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20035.csv",
+      "pid": 20035,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20046.csv",
+      "pid": 20046,
+      "kind": "A",
+      "score": 1.554
+    },
+    {
+      "file": "probeZ_20046.csv",
+      "pid": 20046,
+      "kind": "Z",
+      "score": 0.26
+    },
+    {
+      "file": "probeA_20089.csv",
+      "pid": 20089,
+      "kind": "A",
+      "score": 1.544
+    },
+    {
+      "file": "probeZ_20089.csv",
+      "pid": 20089,
+      "kind": "Z",
+      "score": 0.265
+    },
+    {
+      "file": "probeA_20031.csv",
+      "pid": 20031,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20031.csv",
+      "pid": 20031,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20045.csv",
+      "pid": 20045,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20045.csv",
+      "pid": 20045,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20053.csv",
+      "pid": 20053,
+      "kind": "A",
+      "score": 1.551
+    },
+    {
+      "file": "probeZ_20053.csv",
+      "pid": 20053,
+      "kind": "Z",
+      "score": 0.265
+    },
+    {
+      "file": "probeA_20039.csv",
+      "pid": 20039,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20039.csv",
+      "pid": 20039,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20049.csv",
+      "pid": 20049,
+      "kind": "A",
+      "score": 1.554
+    },
+    {
+      "file": "probeZ_20049.csv",
+      "pid": 20049,
+      "kind": "Z",
+      "score": 0.258
+    },
+    {
+      "file": "probeA_20075.csv",
+      "pid": 20075,
+      "kind": "A",
+      "score": 1.554
+    },
+    {
+      "file": "probeZ_20075.csv",
+      "pid": 20075,
+      "kind": "Z",
+      "score": 0.257
+    },
+    {
+      "file": "probeA_20037.csv",
+      "pid": 20037,
+      "kind": "A",
+      "score": 1.547
+    },
+    {
+      "file": "probeZ_20037.csv",
+      "pid": 20037,
+      "kind": "Z",
+      "score": 0.267
+    },
+    {
+      "file": "probeA_20059.csv",
+      "pid": 20059,
+      "kind": "A",
+      "score": 1.553
+    },
+    {
+      "file": "probeZ_20059.csv",
+      "pid": 20059,
+      "kind": "Z",
+      "score": 0.264
+    },
+    {
+      "file": "probeA_20051.csv",
+      "pid": 20051,
+      "kind": "A",
+      "score": 1.554
+    },
+    {
+      "file": "probeZ_20051.csv",
+      "pid": 20051,
+      "kind": "Z",
+      "score": 0.258
+    },
+    {
+      "file": "probeA_20069.csv",
+      "pid": 20069,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20069.csv",
+      "pid": 20069,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20041.csv",
+      "pid": 20041,
+      "kind": "A",
+      "score": 1.554
+    },
+    {
+      "file": "probeZ_20041.csv",
+      "pid": 20041,
+      "kind": "Z",
+      "score": 0.262
+    },
+    {
+      "file": "probeA_20050.csv",
+      "pid": 20050,
+      "kind": "A",
+      "score": 1.552
+    },
+    {
+      "file": "probeZ_20050.csv",
+      "pid": 20050,
+      "kind": "Z",
+      "score": 0.263
+    },
+    {
+      "file": "probeA_20057.csv",
+      "pid": 20057,
+      "kind": "A",
+      "score": 0.255
+    },
+    {
+      "file": "probeZ_20057.csv",
+      "pid": 20057,
+      "kind": "Z",
+      "score": 0.255
+    },
+    {
+      "file": "probeA_20054.csv",
+      "pid": 20054,
+      "kind": "A",
+      "score": 1.554
+    },
+    {
+      "file": "probeZ_20054.csv",
+      "pid": 20054,
+      "kind": "Z",
+      "score": null
+    },
+    {
+      "file": "probeA_20071.csv",
+      "pid": 20071,
+      "kind": "A",
+      "score": null
+    },
+    {
+      "file": "probeZ_20071.csv",
+      "pid": 20071,
+      "kind": "Z",
+      "score": null
+    },
+    {
+      "file": "probeA_20044.csv",
+      "pid": 20044,
+      "kind": "A",
+      "score": null
+    },
+    {
+      "file": "probeZ_20044.csv",
+      "pid": 20044,
+      "kind": "Z",
+      "score": null
+    },
+    {
+      "file": "probeA_20047.csv",
+      "pid": 20047,
+      "kind": "A",
+      "score": null
+    },
+    {
+      "file": "probeZ_20047.csv",
+      "pid": 20047,
+      "kind": "Z",
+      "score": null
+    },
+    {
+      "file": "probeA_20073.csv",
+      "pid": 20073,
+      "kind": "A",
+      "score": null
+    },
+    {
+      "file": "probeZ_20073.csv",
+      "pid": 20073,
+      "kind": "Z",
+      "score": null
+    },
+    {
+      "file": "probeA_20042.csv",
+      "pid": 20042,
+      "kind": "A",
+      "score": null
+    },
+    {
+      "file": "probeZ_20042.csv",
+      "pid": 20042,
+      "kind": "Z",
+      "score": null
+    },
+    {
+      "file": "probeA_20061.csv",
+      "pid": 20061,
+      "kind": "A",
+      "score": null
+    },
+    {
+      "file": "probeZ_20061.csv",
+      "pid": 20061,
+      "kind": "Z",
+      "score": null
+    },
+    {
+      "file": "probeA_20033.csv",
+      "pid": 20033,
+      "kind": "A",
+      "score": null
+    },
+    {
+      "file": "probeZ_20033.csv",
+      "pid": 20033,
+      "kind": "Z",
+      "score": null
+    }
+  ]
+}
