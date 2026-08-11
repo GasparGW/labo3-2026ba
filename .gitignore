@@ -182,3 +182,7 @@ project/target
 .worksheet
 
 .vscode/settings.json
+
+# Track B: datos crudos del bucket (no versionar)
+datasets/
+.venv/
